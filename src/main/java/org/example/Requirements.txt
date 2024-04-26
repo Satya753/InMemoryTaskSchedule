@@ -1,0 +1,5 @@
+
+Functional Requirements
+1.Job scheduled at a particular time
+2.A recurring job with a particular interval or a time
+3.If threads are insufficient , execute threads on priority having latest execution time
